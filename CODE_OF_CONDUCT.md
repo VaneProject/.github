@@ -6,7 +6,7 @@ The **Vane project** basically follows the following code of conduct.
 # Project Contents
 When creating a project, we follow the following conventions.
 * Avoid creating socially or morally problematic projects.
-* [Paid projects basically follow the principle of non-disclosure.]()
+* [Paid projects basically follow the principle of non-disclosure.](https://github.com/VaneProject/.github/blob/main/CODE_OF_CONDUCT.md#a-paid-project)
 * When writing a project, the principle is to mark the project for the purpose of revealing the source.
 * If no separate Code of Conduct is specified for the project, that Code of Conduct is specified by default.
 
