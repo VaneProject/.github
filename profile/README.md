@@ -16,4 +16,5 @@ A **vane** that turns in the wind of the times
 ![](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
 
 ## Clause
-- [행동지침](https://github.com/VaneProject/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Code Of Conduct (행동지침)](https://github.com/VaneProject/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security (보안)](https://github.com/VaneProject/.github/blob/main/SECURITY.md)
