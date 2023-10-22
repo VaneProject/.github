@@ -13,7 +13,7 @@ Vane does various activities such as games, libraries, and the web, as well as a
 ## Clause
 - [Code Of Conduct (행동지침)](https://github.com/VaneProject/.github/blob/main/CODE_OF_CONDUCT.md)
 - [Security (보안)](https://github.com/VaneProject/.github/blob/main/SECURITY.md)
-- [Vane Rule (베인 규칙)](https://github.com/VaneProject/.github/edit/main/VANE_TEAM_RULE.md)
+- [Vane Rule (베인 규칙)](https://github.com/VaneProject/.github/blob/main/VANE_TEAM_RULE.md)
 
 ## Using
 ### Language
