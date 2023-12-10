@@ -1,4 +1,4 @@
-# Vane Project
+# Project Vane
 종합 개발 프로젝트 팀 **베인**<br>
 Comprehensive Development Project Team **Vane**<br><br>
 시대의 바람에 돌아가는 **바람개비(날개)**<br>
