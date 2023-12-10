@@ -8,8 +8,8 @@ A **vane** that turns in the wind of the times<br>
 보다 편한세상을 향하여<br>
 Towards a More Comfortable World
 
-### Email Outlook
-vaneproject@outlook.com
+[//]: # (### Email Outlook)
+[//]: # (vaneproject@outlook.com)
 
 ### Link
 [Vane Home Page](https://vaneproject.github.io/) <br>
