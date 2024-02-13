@@ -11,9 +11,22 @@ Towards a More Comfortable World
 [//]: # (### Email Outlook)
 [//]: # (vaneproject@outlook.com)
 
+
 ### Link
 [Vane Home Page](https://vaneproject.github.io/) <br>
 [Vane Space Link](https://vane.jetbrains.space/)
+
+
+### Team Manager
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/PersesTitan" style="text-align: center">
+      <img src="https://avatars.githubusercontent.com/PersesTitan" width="100px;" alt=""/>
+      <br><b style="text-align: center">PersesTitan</b></a>      
+    </td>
+  </tr>
+</table>
 
 ## What does Vane do?
 Vane에서는 게임, 라이브러리, 웹 뿐만아니라 응용 프로그램과 같은 다양한 활동들을 진행합니다.<br>
@@ -23,6 +36,7 @@ Vane does various activities such as games, libraries, and the web, as well as a
 - [Code Of Conduct (행동지침)](https://github.com/VaneProject/.github/blob/main/CODE_OF_CONDUCT.md)
 - [Security (보안)](https://github.com/VaneProject/.github/blob/main/SECURITY.md)
 - [Vane Rule (베인 규칙)](https://github.com/VaneProject/.github/blob/main/VANE_TEAM_RULE.md)
+
 
 ## Using
 ### Language
