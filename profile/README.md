@@ -11,7 +11,6 @@ Towards a More Comfortable World
 [//]: # (### Email Outlook)
 [//]: # (vaneproject@outlook.com)
 
-
 ### Link
 [Vane Home Page](https://vaneproject.github.io/) <br>
 [Vane Space Link](https://vane.jetbrains.space/)
